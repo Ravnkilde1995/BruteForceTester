@@ -1,4 +1,4 @@
-﻿# 🔐 CrackLab (CLI Tool)
+﻿# 🔐 BruteLearn (CLI Tool)
 
 A CLI-based Python tool that simulates a brute-force attack to crack a hashed password. The project demonstrates object-oriented programming, hashing algorithms, CLI interaction, and performance tracking.
 
